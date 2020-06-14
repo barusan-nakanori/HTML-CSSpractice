@@ -111,6 +111,21 @@ main{
     padding-bottom: 15px;
 }
 
+.pagination{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.pagination p {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	color: white;
+	background-color: #acabab;
+	line-height: 30px;
+	margin: 0 5px;
+	border-radius: 3px;
+}
 .category {
     display: inline-block;
     padding: 5px 8px;
